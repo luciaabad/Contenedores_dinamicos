@@ -14,6 +14,12 @@
 # EXTERNAL cache entries
 ########################
 
+//The directory containing a CMake configuration file for Boost.
+Boost_DIR:PATH=/opt/anaconda3/lib/cmake/Boost-1.82.0
+
+//Path to a file.
+Boost_INCLUDE_DIR:PATH=/opt/anaconda3/include
+
 //Path to a program.
 CMAKE_ADDR2LINE:FILEPATH=CMAKE_ADDR2LINE-NOTFOUND
 
@@ -222,11 +228,16 @@ Contenedores_dinamicos_IS_TOP_LEVEL:STATIC=ON
 //Value Computed by CMake
 Contenedores_dinamicos_SOURCE_DIR:STATIC=/Users/luciaabad/Documents/GitHub/Contenedores_dinamicos
 
+//The directory containing a CMake configuration file for boost_headers.
+boost_headers_DIR:PATH=/opt/anaconda3/lib/cmake/boost_headers-1.82.0
+
 
 ########################
 # INTERNAL cache entries
 ########################
 
+//ADVANCED property for variable: Boost_DIR
+Boost_DIR-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_ADDR2LINE
 CMAKE_ADDR2LINE-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_AR
@@ -360,4 +371,8 @@ CMAKE_TAPI-ADVANCED:INTERNAL=1
 CMAKE_UNAME:INTERNAL=/usr/bin/uname
 //ADVANCED property for variable: CMAKE_VERBOSE_MAKEFILE
 CMAKE_VERBOSE_MAKEFILE-ADVANCED:INTERNAL=1
+//Details about finding Boost
+FIND_PACKAGE_MESSAGE_DETAILS_Boost:INTERNAL=[/opt/anaconda3/lib/cmake/Boost-1.82.0/BoostConfig.cmake][c ][v1.82.0()]
+//ADVANCED property for variable: boost_headers_DIR
+boost_headers_DIR-ADVANCED:INTERNAL=1
 

@@ -1,7 +1,17 @@
 # ninja log v6
-1	343	1734518139236774566	CMakeFiles/Contenedores_dinamicos.dir/Ejercicio1/vectores.cpp.o	9466714e00caf502
+2	113	1734619891878138460	build.ninja	9102dded30723177
 0	346	1734518139235761811	CMakeFiles/Contenedores_dinamicos.dir/main.cpp.o	9d13c7b58da2a441
 1	347	1734518139236905609	CMakeFiles/Contenedores_dinamicos.dir/Ejercicio2/contenedores.cpp.o	65036df82f7391f9
 1	347	1734518139237012984	CMakeFiles/Contenedores_dinamicos.dir/Ejercicio3/Algoritmo.cpp.o	f2b23f3876c10697
+1	343	1734518139236774566	CMakeFiles/Contenedores_dinamicos.dir/Ejercicio1/vectores.cpp.o	9466714e00caf502
 1	352	1734518139237242902	CMakeFiles/Contenedores_dinamicos.dir/Ejercicio5/Moderno.cpp.o	6347bfa71a5d8d80
 1	361	1734518139237138360	CMakeFiles/Contenedores_dinamicos.dir/Ejercicio4/calculo.cpp.o	425f4d77eede43fd
+3	43	1734619891878138460	build.ninja	9102dded30723177
+3	349	1734619891885485688	CMakeFiles/Contenedores_dinamicos.dir/main.cpp.o	8166afe55e5436fa
+3	367	1734619891885785644	CMakeFiles/Contenedores_dinamicos.dir/Ejercicio2/contenedores.cpp.o	d71405027f890137
+3	367	1734619891885882018	CMakeFiles/Contenedores_dinamicos.dir/Ejercicio3/Algoritmo.cpp.o	d9dc2ca85d33edd9
+3	373	1734619891885681187	CMakeFiles/Contenedores_dinamicos.dir/Ejercicio1/vectores.cpp.o	5473c6878ad6dcd1
+3	375	1734619891886210724	CMakeFiles/Contenedores_dinamicos.dir/Ejercicio5/Moderno.cpp.o	97f5189ce4c41396
+3	378	1734619891886060600	CMakeFiles/Contenedores_dinamicos.dir/Ejercicio4/calculo.cpp.o	adb7468ceff5c2d7
+3	598	1734619891886312223	CMakeFiles/Contenedores_dinamicos.dir/Ejercicio6/Boost.cpp.o	51728c1c82f54d9
+599	1878	1734619892481720821	Contenedores_dinamicos	fefd859a18c2e40
